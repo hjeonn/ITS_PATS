@@ -1,4 +1,4 @@
-# ITS_PATS
+# ITS-PATS
 **PATS: Pedagogically Adaptive Tutoring System**
 
 ## 🧠 Overview
